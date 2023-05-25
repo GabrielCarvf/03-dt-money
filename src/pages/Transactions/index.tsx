@@ -5,7 +5,7 @@ export function Transactions() {
   return (
     <div>
       <Header />
-      <Summary></Summary>
+      <Summary />
     </div>
   )
 }
