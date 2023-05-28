@@ -10,7 +10,7 @@ export const GlobalStyle = createGlobalStyle`
   }
   
   :focus {
-    border: 0;
+    outline: 0;
     box-shadow: 0 0 0 2px ${({ theme }) => theme['green-500']};
   }
 
@@ -21,7 +21,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body,input, textarea, button {
-    font: 400 1rem Roboto, sans-serif
+    font: 400 1rem Roboto, sans-serif;
   }
 
 `
