@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt" : "2023-05-26T02:35:09.214Z"
+      "createdAt": "2023-05-26T02:35:09.214Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 33,
-      "createdAt" : "2023-05-26T02:40:09.214Z"
+      "createdAt": "2023-05-26T02:40:09.214Z"
     },
     {
       "id": 3,
@@ -22,7 +22,31 @@
       "type": "income",
       "category": "Faturamento",
       "price": 100,
-      "createdAt" : "2023-03-26T02:40:09.214Z"
+      "createdAt": "2023-03-26T02:40:09.214Z"
+    },
+    {
+      "category": "Teste saida",
+      "description": "Teste",
+      "price": 1000,
+      "type": "outcome",
+      "createdAt": "2023-05-27T01:56:33.815Z",
+      "id": 4
+    },
+    {
+      "category": "Faturamento",
+      "description": "Mais um teste",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-05-27T02:13:49.373Z",
+      "id": 5
+    },
+    {
+      "category": "Lanche",
+      "description": "Stéfanne comprou lanche",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-05-28T12:02:45.377Z",
+      "id": 6
     }
   ]
 }
